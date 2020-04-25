@@ -103,7 +103,7 @@ I implemented this step in `plot_lane_on_image()` function in my code in `utilit
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+![alt text][video1]
 
 ---
 
@@ -111,6 +111,4 @@ Here's a [link to my video result](./project_video.mp4)
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-As seen above, the pipeline implented worked well with the project video. However, when I inputted the harder challenge video, the results were really bad. the pipeline was unable to detect the lanes accuratley. One of the challenges I noticed in the video was the brightness of the sun. It affected the pipeline and thus causing this wrong detection. To overcome this problem, a gamma filter was used. The results were slightly improved and it can be seen here in this video:
-
-![alt text][video2]
+As seen above, the pipeline implented worked well with the project video. However, when I inputted the harder challenge video, the results were really bad. the pipeline was unable to detect the lanes accuratley. One of the challenges I noticed in the video was the brightness of the sun. It affected the pipeline and thus causing this wrong detection. Perhaps there are more filters that can be used to combat the difference in brightness and shadow between the lanes.
