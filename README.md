@@ -103,7 +103,7 @@ I implemented this step in `plot_lane_on_image()` function in my code in `utilit
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-![alt text][video1]
+Here's a [link to my video result](./test_output_videos/project_video.mp4)
 
 ---
 
