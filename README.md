@@ -19,7 +19,8 @@ The goals / steps of this project are the following:
 [image4]: ./test_images_output/straight_lines2Topview_binary.png "Topview Vs topview binary Example"
 [image5]: ./test_images_output/straight_lines2Topview_polynomial.png "Fitted Polynomial"
 [image6]: ./test_images_output/straight_lines2DetectedLane.png "Output"
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./test_videos_output/project_video.mp4 "Video"
+[video2]: ./test_videos_output/harder_challenge_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
